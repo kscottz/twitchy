@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: owi_arm
+    relative_path: launch/urdf/twitchy.urdf
+  SRDF:
+    relative_path: config/twitchy.srdf
+  CONFIG:
+    generated_timestamp: 1427676872
