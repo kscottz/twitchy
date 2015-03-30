@@ -1,0 +1,2 @@
+controller_joint_names: ['base_to_body', 'body_to_arm1', 'arm1_to_arm2', 'arm2_to_wrist', 'wrist_to_endeffector']
+

@@ -1,0 +1,11 @@
+controller_list:
+  - name: fake_WholeArm_controller
+    joints:
+      - base_to_body
+      - body_to_arm1
+      - arm1_to_arm2
+      - arm2_to_wrist
+      - wrist_to_endeffector
+  - name: fake_gripper_controller
+    joints:
+      []
